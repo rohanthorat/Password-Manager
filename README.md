@@ -1,5 +1,5 @@
 # Password-Manager
-Password-Manager app for your local computer in nodejs
+Password-Manager app for your local computer in nodejs.
 I have built a simple local password manager using nodejs.
 Packages used are as follow:
        *Node-Persist - to store the accounts locally
